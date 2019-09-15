@@ -18,7 +18,7 @@ $phone=$_SESSION['phone'];
 $authKey = "191389AfSnNZ4ovBp5a4e4662";
 $mobileNumber = $phone;
 //Sender ID,While using route4 sender id should be 6 characters long.
-$senderId = "RGUKTN";
+$senderId = "611344";
 //Your message to send, Add URL encoding here.
 $message = urlencode("Your are registered successfully");
 //Define route
