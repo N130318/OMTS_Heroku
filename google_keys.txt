@@ -1,0 +1,5 @@
+Project ID: omts-242010
+clientid
+383014083440-lnm20trch9etk7k5krvr0k5tthejpfbi.apps.googleusercontent.com
+client secret
+u6IcixL-JFU4bC-FwrA29Gcr
